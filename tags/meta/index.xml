@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta on HexOctal</title>
+    <link>https://hexoctal.github.io/tags/meta/</link>
+    <description>Recent content in meta on HexOctal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2020 10:09:58 +0100</lastBuildDate><atom:link href="https://hexoctal.github.io/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://hexoctal.github.io/2020/03/first-post/</link>
+      <pubDate>Fri, 27 Mar 2020 10:09:58 +0100</pubDate>
+      
+      <guid>https://hexoctal.github.io/2020/03/first-post/</guid>
+      <description>&lt;p&gt;This is the first of what I hope would be many other posts in this website.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

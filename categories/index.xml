@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HexOctal</title>
+    <link>https://hexoctal.github.io/categories/</link>
+    <description>Recent content in Categories on HexOctal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Feb 2021 09:13:07 +0100</lastBuildDate><atom:link href="https://hexoctal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>programming</title>
+      <link>https://hexoctal.github.io/categories/programming/</link>
+      <pubDate>Sun, 07 Feb 2021 09:13:07 +0100</pubDate>
+      
+      <guid>https://hexoctal.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miscellaneous</title>
+      <link>https://hexoctal.github.io/categories/miscellaneous/</link>
+      <pubDate>Fri, 27 Mar 2020 10:09:58 +0100</pubDate>
+      
+      <guid>https://hexoctal.github.io/categories/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
